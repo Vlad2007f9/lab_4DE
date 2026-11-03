@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+.idea/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+lab3-de-firebase-adminsdk-fbsvc-21a58ed6f5.json
+main_dataset.csv
